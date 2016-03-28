@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Use](#use)
+- [Differences From `attr`](#differences-from-attr)
+- [Error Handling](#error-handling)
+- [Demo](#demo)
+- [Use](#use-1)
+- [Use](#use-2)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 @function can.Map.setter setter
 @parent can.Map.plugins
 @plugin can/map/setter
