@@ -1,6 +1,6 @@
 {
   "name": "can-map-setter",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Use setter methods on can.Map",
   "homepage": "https://canjs.com",
   "author": {
