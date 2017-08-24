@@ -1,5 +1,7 @@
 # can-map-setter (DEPRECATED)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-map-setter.svg)](https://greenkeeper.io/)
+
 *The setter plugin (and the attributes plugin) have been deprecated in favor of the [define plugin](https://canjs.com/docs/can.Map.prototype.define.html), which provides the same functionality. It will still be maintained up to 3.0 and potentially after. Projects using setters should consider switching to [define setters](https://canjs.com/docs/can.Map.prototype.define.set.html).*
 
 [![Build Status](https://travis-ci.org/canjs/can-map-setter.png?branch=master)](https://travis-ci.org/canjs/can-map-setter)
